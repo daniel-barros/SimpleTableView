@@ -16,7 +16,7 @@ Drag the whole project into your workspace, build it, and add the framework to t
 
 Or just copy the three .swift files into your project.
 
-## Usage
+## Usage
 
 1) Create a UITableViewCell subclass that conforms to Configurable and Reusable.
 
